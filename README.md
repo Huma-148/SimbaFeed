@@ -1,4 +1,4 @@
-SimbaFeed Dasboard is built through MERN Stack.
+SimbaFeed Ecommerce Dasboard(frontend, backend), Public Side is built through MERN Stack.
 
 Modules:
   1. Dashboard Admin side to manaege Products, Categories, Orders, Users
