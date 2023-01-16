@@ -1,0 +1,26 @@
+.checkout_wrapper {
+    display: flex;
+}
+.product__img {
+    height: 60px;
+}
+.order_container {
+    width: 50%;
+    background: #ccc;
+    display: flex;
+    gap: 10px;
+    padding: 15px 0px 0px 10px;
+}
+.order_item_card {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 50%;
+    align-items: center;
+}
+.order_item_card {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 50%;
+}

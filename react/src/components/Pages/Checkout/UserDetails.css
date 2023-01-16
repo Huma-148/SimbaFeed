@@ -1,0 +1,22 @@
+.checkout-form {
+    width: 65%;
+    border-width: 1px;
+    box-shadow: 0px 2px 6px -3px;
+    border-radius: 5px;
+}
+.from__container {
+    width: 50%;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.inner_form_div {
+    display: flex;
+    flex-direction: column;
+}
+.checkout_btn {
+    background: #C38D9E;
+    border: none;
+    margin: 17px;
+    padding: 10px;
+    border-radius: 5px;
+}
