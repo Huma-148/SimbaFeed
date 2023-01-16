@@ -1,3 +1,7 @@
+
+**********************************************    Move to Master branch to see source code  **********************************************************
+
+
 SimbaFeed Ecommerce Dasboard(frontend, backend), Public Side is built through MERN Stack.
 
 Modules:
